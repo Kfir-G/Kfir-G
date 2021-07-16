@@ -18,6 +18,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     <summary><b>My Project</b></summary><br/>
     
     -<a href="https://github.com/Kfir-G/HackIDC21_Project">Hack IDC 21</a>
+    [I'm an inline-style link](https://www.google.com)
     
 </details>
 <!-- END My Projects -->
