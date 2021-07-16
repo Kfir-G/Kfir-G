@@ -61,8 +61,8 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
   </details>
     
 * <details>
-    <summary><b>Operating Systems</b></summary><br/>
-    learning operating systems structure (kernel approaches, dual mode operations, preemptive/non-preemptive OS’s), processes and threads (client-server systems, RPC, pipes, threads dispatching, high-level of thread scheduling), synchronization and mutual exclusion, deadlocks, CPU thread-scheduling (scheduling algorithms and priorities, Mars-Rover project, starvation). Codding in Java and C# in WIN32 API.
+    <summary><b>Software Engineering</b></summary><br/>
+    learning Imparting concepts in software engineering and methods of analysis and design, presenting the development stages of a software system, including definition Requirements, formalization of requirements and their analysis and software design. Learn UML diagrams such as: Use Case Diagrams, System Sequence, Activity Diagrams, and Interaction Diagrams. 
   </details>
     
 <!-- My Knowledge-LIST:END -->
