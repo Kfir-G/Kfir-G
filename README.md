@@ -15,7 +15,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 <!-- My Projects -->
 <details>
     <summary><b>My Project</b></summary><br/>
-- [HACKIDC21](https://github.com/Kfir-G/HackIDC21_Project.html)
+![HACK-IDC-21](https://github.com/Kfir-G/HackIDC21_Project)
     
 </details>
 <!-- END My Projects -->
