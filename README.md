@@ -22,7 +22,6 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 - [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
 - [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
-
+</details>
 <!-- My Projects-LIST:END -->
 
-</details>
