@@ -15,14 +15,11 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 <!-- My Projects -->
 ### My Project:
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+    <summary>&#128240 <b>Big Projects</b></summary><br/>
 
-<!-- BLOG-POST-LIST:START -->
+<!-- My Projects -LIST:START -->
 - [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
-- [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
-- [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
-- [Coding Style?](https://dev.to/warengonzaga/coding-style-3p36)
-<!-- BLOG-POST-LIST:END -->
+
+<!-- My Projects-LIST:END -->
 
 </details>
