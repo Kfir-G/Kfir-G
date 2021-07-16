@@ -63,7 +63,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 - <details>
     <summary><b>Software Engineering</b></summary><br/>
     learning Imparting concepts in software engineering and methods of analysis and design, presenting the development stages of a software system, including definition Requirements, formalization of requirements and their analysis and software design. Learn UML diagrams such as: Use Case Diagrams, System Sequence, Activity Diagrams, and Interaction Diagrams. 
-  </details>
+   </details>
     
 <!-- My Knowledge-LIST:END -->
 </details>
