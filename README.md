@@ -7,7 +7,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 - Programming in Python, pandas, C, SQL (on MS-SQL), Assembly (MIPS), using ASP.NET (includes AJAX, JQUERY, JSON, API rest, XML, Firebase).
 - Working with GitHub. 
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![C](<img src="https://img.icons8.com/fluent-systems-regular/30/000000/c.png"/>)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![C](https://img.icons8.com/color/30/c.png)
 
 <!--
 **Kfir-G/Kfir-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
