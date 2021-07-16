@@ -51,8 +51,8 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     - Google Colab
     - Pandas
     - Data analytics life cycle, Data preparation
-    - Linear and logistic regression,
-    - Classification and evaluation, random forests, decision trees, KNN, SVM,             
+    - Linear and logistic regression
+    - Classification and evaluation, random forests, decision trees, KNN, SVM           
     - Unsupervised algorithms
   </details>
     
