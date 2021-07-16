@@ -51,8 +51,13 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
   </details>
     
 - <details>
-    <summary><b>Computer Architecture </b></summary><br/>
+    <summary><b>Computer Architecture</b></summary><br/>
     learning Combinational Building Blocks such as Multiplexers, Decoders, Latches and Flip-Flops: SR Latch, D Latch D Flip-Flop, Register, MIPS R2000 language and single cycle architecture.
+  </details>
+    
+    - <details>
+    <summary><b>Operating Systems</b></summary><br/>
+    learning operating systems structure (kernel approaches, dual mode operations, preemptive/non-preemptive OS’s), processes and threads (client-server systems, RPC, pipes, threads dispatching, high-level of thread scheduling), synchronization and mutual exclusion, deadlocks, CPU thread-scheduling (scheduling algorithms and priorities, Mars-Rover project, starvation). Codding in Java and C# in WIN32 API.
   </details>
     
 <!-- My Knowledge-LIST:END -->
