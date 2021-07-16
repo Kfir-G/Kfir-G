@@ -56,5 +56,10 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     - Unsupervised algorithms
   </details>
     
+- <details>
+    <summary><b>Computer Architecture </b></summary><br/>
+    learning Combinational Building Blocks such as Multiplexers, Decoders, Latches and Flip-Flops: SR Latch, D Latch D Flip-Flop, Register, MIPS R2000 language and single cycle architecture.
+  </details>
+    
 <!-- My Knowledge-LIST:END -->
 </details>
