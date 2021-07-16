@@ -14,7 +14,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 ---
 
 <!-- My Projects -->
-### 🧷 My Projects & Relevant Knowledge :
+### 🧷 My Projects & Relevant Knowledge:
 <details>
     <summary>&#128240 <b>Big Projects</b></summary><br/>
 
