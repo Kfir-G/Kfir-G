@@ -14,7 +14,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 ---
 
 <!-- My Projects -->
-### 🧷 My Project:
+### 🧷 My Projects & Relevant Knowledge :
 <details>
     <summary>&#128240 <b>Big Projects</b></summary><br/>
 
@@ -25,3 +25,14 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 </details>
 <!-- My Projects-LIST:END -->
 
+<!-- My Knowledge-LIST:START -->
+<details>
+    <summary>🔬 <b>My Knowledge</b></summary><br/>
+
+- <details>
+    <summary><b>Server Side</b></summary><br/> 
+    - learning Web API, AJAX, forms, CCEC, DataSet, DataReader, XML, NoSQL.
+    </details>
+    
+<!-- My Knowledge-LIST:END -->
+</details>
