@@ -46,6 +46,11 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
   </details>
 
 * <details>
+    <summary><b>JAVA</b></summary><br/>
+    advanced concepts in Java object-oriented programming such as polymorphism, abstract Classes, interface realization, exception hierarchy. Event driven programming based on polymorphic event handlers, design and implement software systems in Java GUI.
+  </details>
+    
+* <details>
     <summary><b>Big-Data</b></summary><br/>
     knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms, using GoogleColab.
   </details>
@@ -65,10 +70,5 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     learning Imparting concepts in software engineering and methods of analysis and design, presenting the development stages of a software system, including definition Requirements, formalization of requirements and their analysis and software design. Learn UML diagrams such as: Use Case Diagrams, System Sequence, Activity Diagrams, and Interaction Diagrams. 
   </details>
  
- * <details>
-    <summary><b>JAVA</b></summary><br/>
-    advanced concepts in Java object-oriented programming such as polymorphism, abstract Classes, interface realization, exception hierarchy. Event driven programming based on polymorphic event handlers, design and implement software systems in Java GUI.
-  </details>
-    
 <!-- My Knowledge-LIST:END -->
 </details>
