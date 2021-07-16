@@ -19,6 +19,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 
 <!-- My Projects -LIST:START -->
 - [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
+- [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
 
 <!-- My Projects-LIST:END -->
 
