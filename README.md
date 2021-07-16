@@ -30,9 +30,20 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     <summary>🔬 <b>My Knowledge</b></summary><br/>
 
 - <details>
-    <summary><b>Server Side</b></summary><br/> 
-    - learning Web API, AJAX, forms, CCEC, DataSet, DataReader, XML, NoSQL.
-    </details>
+    <summary><b>Back & Front End</b></summary><br/>
+    - HTML 
+    - CSS
+    - ASP.NET
+    - API rest
+    - AJAX
+    - JSON
+    - XML
+    - Firebase
+    - Web API
+    - CCEC
+    - No-SQL
+    - Data Set
+  </details>
     
 <!-- My Knowledge-LIST:END -->
 </details>
