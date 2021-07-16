@@ -44,6 +44,14 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
     - No-SQL
     - Data Set
   </details>
+
+- <details>
+    <summary><b>Big-Data</b></summary><br/>
+    - Python
+    - Google Colab
+    - Pandas
+    - knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM,             unsupervised algorithms.
+  </details>
     
 <!-- My Knowledge-LIST:END -->
 </details>
