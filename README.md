@@ -22,7 +22,8 @@ Programming in Python, pandas, C, SQL (on MS-SQL), Assembly (MIPS), using ASP.NE
 
 <!-- My Projects -LIST:START -->
 - [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
-- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) - [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html)
+- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) - [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html) <br/>
+    \t Tool of home contents insurance without an insurance reviewer (Link)- consists of an algorithm that identifies objects in the space of the room with the help of a telephone camera and helps the user to quickly fill in insurance along with cross-referencing his personal details. With these components they gave insurance pricing to the user. The solution is agile and efficient with documentation and evidence used by both parties for transparency between them.
 - [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
 </details>
