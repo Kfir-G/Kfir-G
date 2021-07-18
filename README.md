@@ -20,7 +20,7 @@ I'm Kfir a B.Sc. Computer Science Student with 3 semesters remain, willing to en
 
 <!-- My Projects -LIST:START -->
 - [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
-- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html)
+- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) - [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html)
 - [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
 </details>
