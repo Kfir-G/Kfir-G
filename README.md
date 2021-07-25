@@ -30,7 +30,7 @@ Programming in Python, pandas, C, SQL (on MS-SQL), Assembly (MIPS), using ASP.NE
 - [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
     Developed customer management information system as part of a university project, using Java and fully documented in JavaDoc.
     
-- [Software Engineering Documentatio](https://github.com/Kfir-G/SoftwareEngineeringDocument)
+- [Software Engineering Documentation](https://github.com/Kfir-G/SoftwareEngineeringDocument)
     
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
 </details>
