@@ -15,7 +15,7 @@ Programming in Python, pandas, C, SQL (on MS-SQL), Assembly (MIPS), using ASP.NE
 <!-- END My skills -->
 
 ### 🔥 Currently Studying
-![Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+Udemy- The Complete Node.js Developer Course ![Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 ---
 
