@@ -41,6 +41,8 @@ Node.js first project: [Weather Wesite](https://github.com/Kfir-G/weather-app) <
     Developed customer management information system as part of a university project, using Java and fully documented in JavaDoc.
     
 - [Software Engineering Documentation](https://github.com/Kfir-G/SoftwareEngineeringDocument)
+    Includes Requirements Definition: Functional Requirements, Quality Requirements,System Architecture.
+    Requirements Specification: Use Case Diagram, Glossary of UC, Actors Table, Traceability Matrix, Activity Diagrams. Design: Class Diagram.
     
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
 </details>
