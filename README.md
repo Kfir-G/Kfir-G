@@ -59,6 +59,7 @@ Node.js first project: [Weather Wesite](https://github.com/Kfir-G/weather-app) <
     - HTML 
     - CSS
     - ASP.NET
+    - Node.JS
     - API rest
     - AJAX
     - JSON
@@ -68,6 +69,10 @@ Node.js first project: [Weather Wesite](https://github.com/Kfir-G/weather-app) <
     - CCEC
     - No-SQL
     - Data Set
+    - MondoDB
+    - Postman
+    - Heroku
+    - Studio 3T
   </details>
 
 * <details>
