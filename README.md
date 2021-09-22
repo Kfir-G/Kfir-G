@@ -22,8 +22,9 @@ Programming in Python, pandas, C, Node.JS, SQL (on MS-SQL and MongoDB), Assembly
 #### 🤹🏽‍♂️ Studying
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
 
-#### ⚗️ Last project
-Node.js first project: [Weather Wesite](https://github.com/Kfir-G/weather-app) <br/>
+#### ⚗️ Last projects
+Node.js Task Manager Project: [Repo](https://github.com/Kfir-G/Task-Manager-API) <br/>
+Node.js Weather Wesite: [Repo](https://github.com/Kfir-G/weather-app) (first project on Node.js) -Completed <br/>
 
 ---
 
