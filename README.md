@@ -1,7 +1,8 @@
 <!-- About Me -->
 ### 🦁 About Me:
 ![](https://komarev.com/ghpvc/?username=Kfir-G)<br/>
-I'm Kfir a B.Sc. Computer Science Student with 2 semesters remain, willing to enter full-time job at summer 22. Looking for a DevOps/ Big-Data/ Software Develop Student Position.
+Hi there! I am a student of Computer Science, preferably in the field of software and web development, during the summer of 2019. I am currently finishing up my 4th semester and have 2 semesters left until I graduate with a B.Sc.
+
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
 <!--END About me -->
 
