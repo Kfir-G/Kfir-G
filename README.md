@@ -20,11 +20,12 @@ Programming in Python, pandas, C, Node.JS, SQL (on MS-SQL and MongoDB), Assembly
 
 ### 🔥 Currently Work On:
 #### 🤹🏽‍♂️ Studying
-Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
+Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
 
 #### ⚗️ Last projects
-Node.js Task Manager Project: [Repo](https://github.com/Kfir-G/Task-Manager-API) <br/>
-Node.js Weather Wesite: [Repo](https://github.com/Kfir-G/weather-app) (first project on Node.js) -Completed <br/>
+[Chat Room App](https://github.com/Kfir-G/chat-app)<br/>
+[Task Manager Project](https://github.com/Kfir-G/Task-Manager-API) <br/>
+[Weather Wesite](https://github.com/Kfir-G/weather-app)<br/>
 
 ---
 
@@ -48,6 +49,13 @@ Node.js Weather Wesite: [Repo](https://github.com/Kfir-G/weather-app) (first pro
     Requirements Specification: Use Case Diagram, Glossary of UC, Actors Table, Traceability Matrix, Activity Diagrams. Design: Class Diagram.
     
 - [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
+    Front End Game
+- [Chat Room App](https://github.com/Kfir-G/chat-app)
+   This project bulid in Node.js and is used purely for learning exercises and the course content should not be interpreted as something I've created on my own. It uses the        Socket.IO library to allow users to join particular rooms and chat with other users within those rooms. b
+- [Task Manager Project](https://github.com/Kfir-G/Task-Manager-API)
+    The Task Manager Project is written using ES6/7 JavaScript and uses Express to create a simple Node web server that allows users to create, store and delete tasks. 
+- [Weather Wesite](https://github.com/Kfir-G/weather-app)
+    Weather App build in Node.js and using weather api and map box api
 </details>
 <!-- My Projects-LIST:END -->
 
@@ -74,6 +82,7 @@ Node.js Weather Wesite: [Repo](https://github.com/Kfir-G/weather-app) (first pro
     - Postman
     - Heroku
     - Studio 3T
+    - MondoDB Compass
   </details>
 
 * <details>
