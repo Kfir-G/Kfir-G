@@ -23,8 +23,8 @@ Programming in Python, pandas, C, Node.JS, SQL (on MS-SQL and MongoDB), Assembly
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
 
 #### ⚗️ Last projects
-[Chat Room App](https://github.com/Kfir-G/chat-app)<br/>
-[Task Manager Project](https://github.com/Kfir-G/Task-Manager-API) <br/>
+[Chat Room App](https://github.com/Kfir-G/chat-app) | 
+[Task Manager Project](https://github.com/Kfir-G/Task-Manager-API) | 
 [Weather Wesite](https://github.com/Kfir-G/weather-app)<br/>
 
 ---
