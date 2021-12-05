@@ -22,6 +22,7 @@ Web programming using ASP.NET, JavaScript, Node.JS, and database access using Mo
 
 ### 🔥 Currently Work On:
 #### 🤹🏽‍♂️ Studying
+Network Analytics: [JamFinder](https://github.com/Kfir-G/JamFinder)<br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
 
 #### ⚗️ Last projects
