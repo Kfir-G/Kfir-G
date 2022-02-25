@@ -5,6 +5,7 @@ Hi there! I am a student of Computer Science. I am currently finishing up my 4th
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kfir11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfir.gisman@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kfir_g)
 <!--END About me -->
 
 ---
@@ -24,6 +25,9 @@ Web programming using ASP.NET, JavaScript, Node.JS, and database access using Mo
 #### 🤹🏽‍♂️ Studying
 Network Analytics: [JamFinder](https://github.com/Kfir-G/JamFinder)<br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
+
+#### 📚 Publication
+[Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.
 
 #### ⚗️ Last projects
 [Chat Room App](https://github.com/Kfir-G/chat-app) | 
