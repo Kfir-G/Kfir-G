@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=Kfir-G)<br/>
 Hi there! I am a student of Computer Science. I am currently finishing up my 5th semester and have 1 semesters left until I graduate with a B.Sc.
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kfir11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfir.gisman@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kfir_g)
 <!--END About me -->
