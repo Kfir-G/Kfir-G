@@ -9,9 +9,11 @@ Hi there! I am a student of Computer Science. I am currently finishing up my 5th
 ---
 
 <!-- My skills -->
-### 🔧 My Skills:
-Object Oriented Programming in C# and Java (both include GUI). Programing in Python and C. <br/>
-Web programming using ASP.NET, JavaScript, Node.JS, and database access using MongoDB and MS-SQL. Tools such as Firebase, Bootstrap, Postman, Studio 3T, and Heroku.
+### 🔧 My Skills: 
+- <b>Data</b>: Python (pandas), social network analysis (SNA), Knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms. Social Network Analysis using ORA and Gephy.
+- <b>OOP</b>: C# and Java (both include GUI). C.
+- <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js.
+- <b>Frontend</b>: React, HTML, CSS, AJAX, API rest, Firebase, bootstrap, JavaScript.
 <br/> <br/>
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/color/30/java.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/rest-api.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
 ![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
@@ -25,7 +27,8 @@ Network Analytics: [JamFinder](https://github.com/Kfir-G/JamFinder)<br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
 
 #### 📚 Publication
-[Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.
+[Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.<br/>
+[Spotify- Genres Network Analysis by Through Decades](https://medium.com/@kfir_g/spotify-genres-network-analysis-by-through-decades-b7d325f9677a)- Analysis the Pop and Rock through 1960-2020 by their popularity and the importance.
 
 #### ⚗️ Last projects
 [Chat Room App](https://github.com/Kfir-G/chat-app) | 
@@ -99,6 +102,16 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
     <summary><b>Big-Data</b></summary><br/>
     knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms, using GoogleColab.
   </details>
+    
+* <details>
+    <summary><b>SNA- Social Network Analysis </b></summary><br/>
+    Data collection and data integration, statistical and other research, and data testing. The basics of network theory, nodes and connections, types of nodes and activities, and three levels of presenting them. Calculating and understanding key metrics of players and opinion leaders, finding groups in the network, topology of the network, networks Randomness, Scale Free Networks, and models of network development and the movement of epidemics and rumors on the network.
+    </details>
+
+* <details>
+     <summary><b>UX/UI</b></summary><br/>
+    Ux design process includes: Functional chunks, Conceptual elements, Navigation map and policy, Wireframes, Mockups.
+    </details>
     
 * <details>
     <summary><b>Computer Architecture</b></summary><br/>
