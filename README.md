@@ -4,9 +4,14 @@ Hi there!
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfir.gisman@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kfir_g)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kfir_)
 <!--END About me -->
 
 ---
+
+<!-- Archive -->
+<details>
+    <summary>&#128240 <b>Academic Archive</b></summary><br/>
 
 <!-- My skills -->
 ### 🔧 My Skills: 
@@ -22,7 +27,7 @@ Hi there!
 ---
 
 ### 🔥 Currently Work On:
-#### 🤹🏽‍♂️ Studying
+#### 🤹🏽‍♂️ Other Projects
 Network Analytics: [JamFinder](https://github.com/Kfir-G/JamFinder)<br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
 
@@ -129,4 +134,6 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
   </details>
  
 <!-- My Knowledge-LIST:END -->
+</details>
+
 </details>
