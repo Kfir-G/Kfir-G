@@ -8,10 +8,6 @@ Hi there!
 
 ---
 
-<!-- Archive -->
-<details>
-    <summary>&#128240 <b>Academic Archive</b></summary><br/>
-
 <!-- My skills -->
 ### 🔧 My Skills: 
 - <b>Data</b>: Python (pandas), social network analysis (SNA), Knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms. Social Network Analysis using ORA and Gephy.
@@ -19,61 +15,13 @@ Hi there!
 - <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js.
 - <b>Frontend</b>: React, HTML, CSS, AJAX, API rest, Firebase, bootstrap, JavaScript.
 <br/> <br/>
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/color/30/java.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/rest-api.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/fluency/30/java-coffee-cup-logo.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/api-settings.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
 ![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
 <!-- END My skills -->
 
----
-
-### 🔥 Currently Work On:
-#### 🤹🏽‍♂️ Other Projects
-Network Analytics: [JamFinder](https://github.com/Kfir-G/JamFinder)<br/>
-Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) -Complited! <br/>
-
-#### 📚 Publication
-[Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.<br/>
-[Spotify- Genres Network Analysis by Through Decades](https://medium.com/@kfir_g/spotify-genres-network-analysis-by-through-decades-b7d325f9677a)- Analysis the Pop and Rock through 1960-2020 by their popularity and the importance.
-
-#### ⚗️ Last projects
-[Chat Room App](https://github.com/Kfir-G/chat-app) | 
-[Task Manager Project](https://github.com/Kfir-G/Task-Manager-API) | 
-[Weather Wesite](https://github.com/Kfir-G/weather-app)<br/>
-
----
-
-<!-- My Projects -->
-### 🧷 My Projects & Relevant Knowledge:
-<details>
-    <summary>&#128240 <b>Big Projects</b></summary><br/>
-
-<!-- My Projects -LIST:START -->
-- [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
-    Tool of home contents insurance without an insurance reviewer- consists of an algorithm that identifies objects in the space of the room with the help of a telephone camera and helps the user to quickly fill in insurance along with cross-referencing his personal details. With these components they gave insurance pricing to the user. The solution is agile and efficient with documentation and evidence used by both parties for transparency between them.
-    
-- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) - [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html) <br/>
-    Developed Front and Backend project from scratch: customer watch list of series form TMdb data base. The website includes admin panel with users’ statistics, recommended series based on several parameters, real time chat base on firebase with changing emojis. Using API.net, JQUERY, JSON, SQL, Firebase, JavaScript, HTML and CSS. 
-    
-- [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
-    Developed customer management information system as part of a university project, using Java and fully documented in JavaDoc.
-    
-- [Software Engineering Documentation](https://github.com/Kfir-G/SoftwareEngineeringDocument)
-    Includes Requirements Definition: Functional Requirements, Quality Requirements,System Architecture.
-    Requirements Specification: Use Case Diagram, Glossary of UC, Actors Table, Traceability Matrix, Activity Diagrams. Design: Class Diagram.
-    
-- [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
-    Front End Game
-- [Chat Room App](https://github.com/Kfir-G/chat-app)
-   This project bulid in Node.js and is used purely for learning exercises and the course content should not be interpreted as something I've created on my own. It uses the        Socket.IO library to allow users to join particular rooms and chat with other users within those rooms. b
-- [Task Manager Project](https://github.com/Kfir-G/Task-Manager-API)
-    The Task Manager Project is written using ES6/7 JavaScript and uses Express to create a simple Node web server that allows users to create, store and delete tasks. 
-- [Weather Wesite](https://github.com/Kfir-G/weather-app)
-    Weather App build in Node.js and using weather api and map box api
-</details>
-<!-- My Projects-LIST:END -->
-
 <!-- My Knowledge-LIST:START -->
 <details>
-    <summary>🔬 <b>My Knowledge</b></summary><br/>
+    <summary>🔬 <b>Other Knowledge</b></summary><br/>
 
 * <details>
     <summary><b>Back & Front End</b></summary><br/>
@@ -131,8 +79,56 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
     <summary><b>Software Engineering</b></summary><br/>
     learning Imparting concepts in software engineering and methods of analysis and design, presenting the development stages of a software system, including definition Requirements, formalization of requirements and their analysis and software design. Learn UML diagrams such as: Use Case Diagrams, System Sequence, Activity Diagrams, and Interaction Diagrams. 
   </details>
- 
+ </details>
 <!-- My Knowledge-LIST:END -->
+
+Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
+
+---
+
+<!-- Archive -->
+<details>
+    <summary>&#128240 <b>Academic Archive</b></summary><br/>
+
+#### 📚 Publication
+[Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.<br/>
+[Spotify- Genres Network Analysis by Through Decades](https://medium.com/@kfir_g/spotify-genres-network-analysis-by-through-decades-b7d325f9677a)- Analysis the Pop and Rock through 1960-2020 by their popularity and the importance.
+
+---
+
+<!-- My Projects -->
+<details>
+    <summary>&#128240 <b>Big Projects</b></summary><br/>
+
+<!-- My Projects -LIST:START -->
+- [JamFinder](http://proj.ruppin.ac.il/gallery/#/rue42p10)
+    My friends and I created JamFinder, an app that helps musicians find partners based on their musical preferences and Spotify listening data, using an algorithm based on SNA. The app filters, scores and ranks potential partners according to their proximity in a network of 2500 Spotify genres and 30 musical communities
+- [Hack IDC 21 ](https://github.com/Kfir-G/HackIDC21_Project)
+    Tool of home contents insurance without an insurance reviewer- consists of an algorithm that identifies objects in the space of the room with the help of a telephone camera and helps the user to quickly fill in insurance along with cross-referencing his personal details. With these components they gave insurance pricing to the user. The solution is agile and efficient with documentation and evidence used by both parties for transparency between them.
+    
+- [Watch List Management Website](https://github.com/rupCS63/TMDB-Final-Project) - [Website's link](https://proj.ruppin.ac.il/bgroup63/prod/Pages/index.html) <br/>
+    Developed Front and Backend project from scratch: customer watch list of series form TMdb data base. The website includes admin panel with users’ statistics, recommended series based on several parameters, real time chat base on firebase with changing emojis. Using API.net, JQUERY, JSON, SQL, Firebase, JavaScript, HTML and CSS. 
+    
+- [Nightclub Management Tool Project](https://github.com/Kfir-G/Final_Project_Java)
+    Developed customer management information system as part of a university project, using Java and fully documented in JavaDoc.
+    
+- [Software Engineering Documentation](https://github.com/Kfir-G/SoftwareEngineeringDocument)
+    Includes Requirements Definition: Functional Requirements, Quality Requirements,System Architecture.
+    Requirements Specification: Use Case Diagram, Glossary of UC, Actors Table, Traceability Matrix, Activity Diagrams. Design: Class Diagram.
+    
+- [Monopoly Game](https://github.com/Kfir-G/Monopoly-Game)
+    Front End Game
+- [Chat Room App](https://github.com/Kfir-G/chat-app)
+   This project bulid in Node.js and is used purely for learning exercises and the course content should not be interpreted as something I've created on my own. It uses the        Socket.IO library to allow users to join particular rooms and chat with other users within those rooms. b
+- [Task Manager Project](https://github.com/Kfir-G/Task-Manager-API)
+    The Task Manager Project is written using ES6/7 JavaScript and uses Express to create a simple Node web server that allows users to create, store and delete tasks. 
+- [Weather Wesite](https://github.com/Kfir-G/weather-app)
+    Weather App build in Node.js and using weather api and map box api
+- Other Projects: [Chat Room App](https://github.com/Kfir-G/chat-app) | 
+[Task Manager Project](https://github.com/Kfir-G/Task-Manager-API) | 
+[Weather Wesite](https://github.com/Kfir-G/weather-app)
 </details>
+<!-- My Projects-LIST:END -->
 
 </details>
+
