@@ -11,11 +11,13 @@ Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure
 ---
 
 <!-- My skills -->
-### 🔧 My Skills: 
+### 🔧 My Skills:
+<b>Technical</b>
 - <b>Data</b>: Python (pandas), social network analysis (SNA), Knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms. Social Network Analysis using ORA and Gephy.
 - <b>OOP</b>: C# and Java (both include GUI). C.
-- <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js.
+- <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js. Bash.
 - <b>Frontend</b>: React, HTML, CSS, AJAX, API rest, Firebase, bootstrap, JavaScript.
+- <b>Operating Systems</b>: Linux, MacOS, Windows.
 <br/> <br/>
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/fluency/30/java-coffee-cup-logo.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/api-settings.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
 ![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
