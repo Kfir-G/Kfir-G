@@ -1,7 +1,9 @@
 <!-- About Me -->
 ### 🦁 About Me: 
-Hi there!
-<br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
+Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure code by identifying new attacks vectors/vulnerabilities and developing new ways to prevent them, so they can achieve their goals and build a more secure products.<br/>
+
+### 📡 Social
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfir.gisman@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kfir_g)
 <!--END About me -->
@@ -18,6 +20,10 @@ Hi there!
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/fluency/30/java-coffee-cup-logo.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/api-settings.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
 ![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
 <!-- END My skills -->
+
+#### Udemy Courses
+Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
+Docker and K8S: [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) - in progress<br/>
 
 <!-- My Knowledge-LIST:START -->
 <details>
@@ -82,15 +88,10 @@ Hi there!
  </details>
 <!-- My Knowledge-LIST:END -->
 
-Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
-
 ---
 
-<!-- Archive -->
-<details>
-    <summary>&#128240 <b>Academic Archive</b></summary><br/>
-
-#### 📚 Publication
+<!-- Publications -->
+#### 📚 Publications & Blogs
 [Spotify Genres Network Analysis](https://medium.com/@kfir_g/spotify-genres-network-analysis-3047c5b9b777)- I built a genre network and found that the number of artists playing a genre correlated with its centrality in the network.<br/>
 [Spotify- Genres Network Analysis by Through Decades](https://medium.com/@kfir_g/spotify-genres-network-analysis-by-through-decades-b7d325f9677a)- Analysis the Pop and Rock through 1960-2020 by their popularity and the importance.
 
@@ -98,7 +99,7 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 
 <!-- My Projects -->
 <details>
-    <summary>&#128240 <b>Big Projects</b></summary><br/>
+    <summary>&#128240 <b>Archive of Projects</b></summary><br/>
 
 <!-- My Projects -LIST:START -->
 - [JamFinder](http://proj.ruppin.ac.il/gallery/#/rue42p10)
@@ -129,6 +130,3 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 [Weather Wesite](https://github.com/Kfir-G/weather-app)
 </details>
 <!-- My Projects-LIST:END -->
-
-</details>
-
