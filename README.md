@@ -13,6 +13,7 @@ Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure
 <!-- My skills -->
 ### 🔧 My Skills:
 <b>Technical</b>
+- <b>Cloud</b>: AWS, GCP, Azure, AliCloud. IaC: Terraform, Ansible. CICD Hardening: Github Actions. Docker, K8S.
 - <b>Data</b>: Python (pandas), social network analysis (SNA), Knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms. Social Network Analysis using ORA and Gephy.
 - <b>OOP</b>: C# and Java (both include GUI). C.
 - <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js. Bash.
