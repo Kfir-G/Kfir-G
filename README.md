@@ -23,9 +23,9 @@ Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure
 ![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
 <!-- END My skills -->
 
-#### Udemy Courses
+#### Udemy Courses & Certificates
+Docker and K8S: [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
-Docker and K8S: [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) - in progress<br/>
 
 <!-- My Knowledge-LIST:START -->
 <details>
