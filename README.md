@@ -1,6 +1,6 @@
 <!-- About Me -->
 ### 🦁 About Me: 
-Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure code by identifying new attacks vectors/vulnerabilities and developing new ways to prevent them, so they can achieve their goals and build a more secure products.<br/>
+Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving complex puzzles, leveraging my engineering mindset. My forte lies in translating human language requirements into high-level, robust projects, drawing on extensive experience in data analysis, security research, and software engineering. Having worked in successful startup and large corporations, I seamlessly integrate diverse approaches into modern project workflows. Moreover, I share insights on various topics through my Medium blog.<br/>
 
 ### 📡 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
@@ -13,15 +13,15 @@ Hi! I'm Kfir. The aim of my work is to assist software engineers to build secure
 <!-- My skills -->
 ### 🔧 My Skills:
 <b>Technical</b>
+- <b>Backend</b>: Python, SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js. Bash.
+- <b>OOP</b>: C# and Java (both include GUI). C.
 - <b>Cloud</b>: AWS, GCP, Azure, AliCloud. IaC: Terraform, Ansible. CICD Hardening: Github Actions. Docker, K8S.
 - <b>Data</b>: Python (pandas), social network analysis (SNA), Knowledge at data analytics life cycle, data preparation, linear and logistic regression, classification and evaluation, random forests, decision trees, KNN, SVM, unsupervised algorithms. Social Network Analysis using ORA and Gephy.
-- <b>OOP</b>: C# and Java (both include GUI). C.
-- <b>Backend</b>: SQL (on MS-SQL and MongoDB, Mongoose), ASP.NET, CCEC. JavaScript and Node.js. Bash.
 - <b>Frontend</b>: React, HTML, CSS, AJAX, API rest, Firebase, bootstrap, JavaScript.
 - <b>Operating Systems</b>: Linux, MacOS, Windows.
 <br/> <br/>
-![Docker](https://img.icons8.com/color/30/docker.png)![K8S](https://img.icons8.com/color/30/kubernetes.png)![Terraform](https://img.icons8.com/color/30/terraform.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/fluency/30/java-coffee-cup-logo.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/api-settings.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
-![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)
+![Docker](https://img.icons8.com/color/30/docker.png)![K8S](https://img.icons8.com/color/30/kubernetes.png)![Python](https://img.icons8.com/color/30/python.png)![Terraform](https://img.icons8.com/color/30/terraform.png)![GITLAB](https://img.icons8.com/color/30/gitlab.png)![C](https://img.icons8.com/color/30/c.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/fluency/30/java-coffee-cup-logo.png)![Node.JS](https://img.icons8.com/windows/30/000000/node-js.png)![SQL](https://img.icons8.com/color/30/sql.png)![ASP.NET](https://img.icons8.com/color/30/asp.png)![RESTAPI](https://img.icons8.com/color/30/api-settings.png)![JQUERY](https://img.icons8.com/ios/30/000000/jquery.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Heroku](https://img.icons8.com/color/30/000000/heroku.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
+![PostMan](https://img.icons8.com/dusk/30/000000/postman-api.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)
 <!-- END My skills -->
 
 #### Udemy Courses & Certificates
@@ -94,7 +94,9 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 ---
 
 <!-- Publications -->
-#### 📚 Publications & Blogs
+#### 📚 Publications, Blogs and Lectures
+[Motivating the average developer to engage in DevSecOps](https://www.meetup.com/devseccon-spain/events/300514218?response=3&action=rsvp)- Presentation at the DevSecOps Spain Community on Docker Security. I offered a hands-on experience for the audience, during which we coded together and investigated vulnerabilities in containers.<br/>
+[Solving Logs Woes: A Small Dive into Singleton Design Pattern](https://medium.com/python-in-plain-english/solving-logs-woes-a-dive-into-singleton-design-pattern-1f77e70bd498)- Published in [Python in Plain English](https://python.plainenglish.io/). Describes my experience incorporating logging into a Python software project, initially encountering difficulties with writing logs from files but overcoming the issue by implementing the Singleton Design Pattern, ensuring a single instance of the Logger class exists throughout the program's execution. They explain the Singleton pattern's concept, implementation in Python, benefits, considerations, and its role in resolving their logging issue, emphasizing streamlined and centralized logging.<br/>
 [Shell injection in GitHub Actions CI/CD](https://medium.com/@kfir_g/shell-injection-in-github-actions-ci-cd-dc137317bc9)- The article describes the security risks of using pull_request_target event in GitHub Actions, and how an attacker can exploit shell injection to run malicious commands or scripts in the workflow.<br/>
 [Why IMDSv1 is a Security Risk for Cloud Infrastructure](https://medium.com/@kfir_g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-350bbe4e8c94)- The article discusses the security risks of using IMDsv1, a metadata service for cloud infrastructure, and how an attacker can exploit it to gain access to sensitive information or execute commands on the cloud instances.<br/>
 [Why You Should Disable Cloud Storage Bucket Versioning](https://medium.com/@kfir_g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-350bbe4e8c94)- The article explains why cloud storage bucket versioning can be a security risk and a performance bottleneck, and suggests some alternatives to achieve data durability and availability.<br/>
