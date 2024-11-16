@@ -94,6 +94,20 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 
 ---
 
+<!-- Supporting Open Source and Community Engagement -->
+
+### Supporting Open Source and Community Engagement
+
+- [Github open source projects sponsoring](https://github.com/Kfir-G?tab=sponsoring)
+
+- [Motivating the average developer to engage in DevSecOps - Lecture](https://www.meetup.com/devseccon-spain/events/300514218?response=3&action=rsvp)- Presentation at the DevSecOps Spain Community on Docker Security. I offered a hands-on experience for the audience, during which we coded together and investigated vulnerabilities in containers.<br/>
+
+- [PyPI Suspends New Registrations After Malicious Python Script Attack](https://blog.checkpoint.com/security/pypi-suspends-new-registrations-after-malicious-python-script-attack/)- Published in [Checkpoint](https://www.checkpoint.com/). Supply chain attacks targeting PyPi packages, exemplified by a recent incident involving 44 malicious packages uploaded, underscore the importance of verifying Python code sources to prevent system compromise and data exposure, emphasizing the need for robust security measures like CloudGuard Spectral to safeguard against such threats. <br/>
+
+<!-- Supporting Open Source and Community Engagement: END -->
+
+---
+
 <!-- Publications -->
 #### 📚 Publications, Blogs and Lectures
 
@@ -121,15 +135,11 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 
 ##### Security Topics
 
-- [Motivating the average developer to engage in DevSecOps - Lecture](https://www.meetup.com/devseccon-spain/events/300514218?response=3&action=rsvp)- Presentation at the DevSecOps Spain Community on Docker Security. I offered a hands-on experience for the audience, during which we coded together and investigated vulnerabilities in containers.<br/>
-
 - [Shell injection in GitHub Actions CI/CD](https://medium.com/@kfir_g/shell-injection-in-github-actions-ci-cd-dc137317bc9)- The article describes the security risks of using pull_request_target event in GitHub Actions, and how an attacker can exploit shell injection to run malicious commands or scripts in the workflow.<br/>
 
 - [Why IMDSv1 is a Security Risk for Cloud Infrastructure](https://medium.com/@kfir_g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-350bbe4e8c94)- The article discusses the security risks of using IMDsv1, a metadata service for cloud infrastructure, and how an attacker can exploit it to gain access to sensitive information or execute commands on the cloud instances.<br/>
 
 - [Why You Should Disable Cloud Storage Bucket Versioning](https://medium.com/@kfir_g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-350bbe4e8c94)- The article explains why cloud storage bucket versioning can be a security risk and a performance bottleneck, and suggests some alternatives to achieve data durability and availability.<br/>
-
-- [PyPI Suspends New Registrations After Malicious Python Script Attack](https://blog.checkpoint.com/security/pypi-suspends-new-registrations-after-malicious-python-script-attack/)- Published in [Checkpoint](https://www.checkpoint.com/). Supply chain attacks targeting PyPi packages, exemplified by a recent incident involving 44 malicious packages uploaded, underscore the importance of verifying Python code sources to prevent system compromise and data exposure, emphasizing the need for robust security measures like CloudGuard Spectral to safeguard against such threats. <br/>
 
 <!-- Archive of Blogs -->
 <details>
