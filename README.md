@@ -26,6 +26,7 @@ Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving comp
 <!-- END My skills -->
 
 #### Udemy Courses & Certificates
+Advanced Topics in Python: (Parallel Programming in Python with async/await and threads Course)[https://training.talkpython.fm/courses/explore_async_python/async-in-python-with-threading-and-multiprocessing] <br/>
 Docker and K8S: [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <br/>
 Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) <br/>
 
