@@ -112,6 +112,8 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 <!-- Publications -->
 #### 📚 Publications, Blogs and Lectures
 
+-  [This Small Python Script Improved Understanding of Low-Level Programming](https://medium.com/gitconnected/this-small-python-script-improved-understanding-of-low-level-programming-077a2a066273)- published on the popular platform [Level Up Coding](https://levelup.gitconnected.com/) on Medium, explores how a simple Python script can bridge the gap between high-level programming and low-level concepts, providing valuable insights for developers.
+
 ##### Quick Dives into FastAPI [Series'](https://dev.to/kfir-g/series/28970) Articles
 
 1. **[Unleash the Power of FastAPI: Async vs Blocking I/O](https://python.plainenglish.io/unleash-the-power-of-fastapi-async-vs-blocking-i-o-7ec80edb7320)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This article delves into the crucial differences between asynchronous and blocking I/O in FastAPI, explaining their impact on application performance and scalability. Through practical examples, it demonstrates how to leverage asynchronous programming to handle high-concurrency scenarios efficiently, making it a must-read for developers optimizing FastAPI projects.<br/>
