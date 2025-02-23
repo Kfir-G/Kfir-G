@@ -113,6 +113,8 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 #### 📚 Publications, Blogs and Lectures
 
 -  [This Small Python Script Improved Understanding of Low-Level Programming](https://medium.com/gitconnected/this-small-python-script-improved-understanding-of-low-level-programming-077a2a066273)- published on the popular platform [Level Up Coding](https://levelup.gitconnected.com/) on Medium, explores how a simple Python script can bridge the gap between high-level programming and low-level concepts, providing valuable insights for developers.
+- [Understanding Python Memory and Garbage Collection Through Hands-on Experiments](https://levelup.gitconnected.com/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-86f25aa6b5d5)- Published on [LevelUp](https://levelup.gitconnected.com/). This article provides a practical, hands-on approach to understanding Python’s memory management and garbage collection mechanisms. By conducting experiments and observing the memory behavior, you’ll gain insights into how Python handles memory allocation and deallocation. The post also covers common memory pitfalls and tips for optimizing memory usage in Python applications.
+
 
 ##### Quick Dives into FastAPI [Series'](https://dev.to/kfir-g/series/28970) Articles
 
@@ -123,6 +125,8 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 3. **[Building Robust Components with FastAPI and Pydantic](https://python.plainenglish.io/building-robust-components-with-fastapi-and-pydantic-a99e34532241)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This article highlights the synergy between FastAPI and Pydantic in constructing reliable and maintainable application components. It covers creating reusable models and enforcing validation rules, ensuring data consistency and integrity across APIs. A practical guide for developers seeking to improve their application's robustness and clarity.<br/>
 
 4. **[Understanding FastAPI Fundamentals: A Guide to FastAPI, Uvicorn, Starlette, Swagger UI, and Pydantic](https://python.plainenglish.io/understanding-fastapi-fundamentals-a-guide-to-fastapi-uvicorn-starlette-swagger-ui-and-1a377ee5b9a6)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This foundational article introduces FastAPI's core building blocks, including Uvicorn for serving, Starlette for routing, and Pydantic for data validation. It also explores the built-in features for auto-generating API documentation with Swagger UI and ReDoc, making it an essential resource for developers new to FastAPI.<br/>
+
+5. **[Why You Should Use a Single FastAPI App and TestClient Instance](https://python.plainenglish.io/why-you-should-use-a-single-fastapi-app-and-testclient-instance-475ab3a99cce)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This article explains the advantages of using a single FastAPI app instance and a single TestClient instance throughout your application. By doing so, you simplify the testing setup, improve performance, and ensure consistent configurations across your tests. The post dives into best practices for structuring your FastAPI application and offers practical tips to enhance testability and maintainability.<br/>
 
 ##### Enhance Your Code Delivery Skills as a Software Engineer [Series'](https://dev.to/kfir-g/series/27822) Articles
 
