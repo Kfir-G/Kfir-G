@@ -99,6 +99,8 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 
 ### Supporting Open Source and Community Engagement
 
+- Actively contribute to the FastAPI community by answering questions and [assisting](https://github.com/fastapi/fastapi/discussions?discussions_q=is%3Aopen+author%3Akfir-g) in the FastAPI organization.
+
 - [Github open source projects sponsoring](https://github.com/Kfir-G?tab=sponsoring)
 
 - [Motivating the average developer to engage in DevSecOps - Lecture](https://www.meetup.com/devseccon-spain/events/300514218?response=3&action=rsvp)- Presentation at the DevSecOps Spain Community on Docker Security. I offered a hands-on experience for the audience, during which we coded together and investigated vulnerabilities in containers.<br/>
