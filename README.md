@@ -125,7 +125,7 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 
 3. **[Memory Allocation in Python: Understanding Arenas, Pools, and Blocks](https://python.plainenglish.io/memory-allocation-in-python-understanding-arenas-pools-and-blocks-87024446c93e)**– published on the educational platform [Plain English](https://python.plainenglish.io/), dives into the internal memory management of Python, breaking down the layered structure of arenas, pools, and blocks to help developers gain a deeper understanding of how Python allocates and organizes memory for optimal performance.
 
-##### Quick Dives into FastAPI [Series'](https://dev.to/kfir-g/series/28970) Articles
+##### Quick Dives into FastAPI [Series'](https://medium.com/@Kfir-G/list/quick-dives-into-fastapi-ec276514e7c4) Articles
 
 1. **[Unleash the Power of FastAPI: Async vs Blocking I/O](https://python.plainenglish.io/unleash-the-power-of-fastapi-async-vs-blocking-i-o-7ec80edb7320)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This article delves into the crucial differences between asynchronous and blocking I/O in FastAPI, explaining their impact on application performance and scalability. Through practical examples, it demonstrates how to leverage asynchronous programming to handle high-concurrency scenarios efficiently, making it a must-read for developers optimizing FastAPI projects.<br/>
 
@@ -140,7 +140,7 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 6. **[Do You Really Know About FastAPI and ASGI?](https://medium.com/python-in-plain-english/do-you-really-know-about-fastapi-and-asgi-06582a8358bc)** - Published on [Python in Plain English](https://python.plainenglish.io/) Medium publication. This article dives into the relationship between FastAPI and ASGI (Asynchronous Server Gateway Interface). It explores how FastAPI utilizes ASGI to handle asynchronous operations, and why it’s crucial for developers to understand ASGI for building scalable, high-performance applications. The post also highlights the difference between ASGI and WSGI and provides insights into when and how to use ASGI effectively.<br/>
 
 
-##### Enhance Your Code Delivery Skills as a Software Engineer [Series'](https://dev.to/kfir-g/series/27822) Articles
+##### Enhance Your Code Delivery Skills as a Software Engineer [Series'](https://medium.com/@Kfir-G/list/enhance-your-code-delivery-skills-as-a-software-engineer-53fea0e3db52) Articles
 
 1. **[Solving Logs Woes: A Small Dive into Singleton Design Pattern](https://medium.com/python-in-plain-english/solving-logs-woes-a-dive-into-singleton-design-pattern-1f77e70bd498)**- Published in [Python in Plain English](https://python.plainenglish.io/). Describes my experience incorporating logging into a Python software project, initially encountering difficulties with writing logs from files but overcoming the issue by implementing the Singleton Design Pattern, ensuring a single instance of the Logger class exists throughout the program's execution. They explain the Singleton pattern's concept, implementation in Python, benefits, considerations, and its role in resolving their logging issue, emphasizing streamlined and centralized logging.<br/>
 
