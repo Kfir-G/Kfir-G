@@ -1,8 +1,8 @@
 <!-- About Me -->
-### 🦁 About Me: 
+### About Me: 
 Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving complex puzzles, leveraging my engineering mindset. My forte lies in translating human language requirements into high-level, robust projects, drawing on extensive experience in data analysis, security research, and software engineering. Having worked in successful startup and large corporations, I seamlessly integrate diverse approaches into modern project workflows. Moreover, I share insights on various topics through my Medium blog.<br/>
 
-### 📡 Social
+### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfir.gisman@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kfir-g)
@@ -12,37 +12,37 @@ Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving comp
 ---
 
 <!-- My skills -->
-### 🔧 My Core Skills
+### My Core Skills
 
-#### 🧩 Backend
+#### Backend
 - <b>Python (FastAPI)</b> 
   ![Python](https://img.icons8.com/color/30/python.png) <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" width="30" height="30" alt="FastAPI Icon" style="vertical-align: middle;">
   
  
-#### ⚙️ Infrastructure & Cloud
+#### Infrastructure & Cloud
 - <b>AWS, Docker, Kubernetes, Terraform</b>  
   ![AWS](https://img.icons8.com/color/30/amazon-web-services.png)
   ![Docker](https://img.icons8.com/color/30/docker.png)
   ![K8S](https://img.icons8.com/color/30/kubernetes.png)
   ![Terraform](https://img.icons8.com/color/30/terraform.png)
 
-#### 🔐 Security & Identity
+#### Security & Identity
 - <b>Keycloak, HashiCorp Vault, JWT</b>  
   ![key-cloak](https://img.icons8.com/fluency/30/key-cloak.png)
   ![Vault](https://img.icons8.com/ios/30/hashicorp.png)
   ![JWT](https://img.icons8.com/color/30/java-web-token.png)
 
-#### 🗄️ Databases & Caching
+#### Databases & Caching
 - <b>PostgreSQL, Redis, RabbitMQ</b> 
   ![postgresql](https://img.icons8.com/color/30/postgreesql.png)
   ![redis](https://img.icons8.com/color/30/redis.png)
   <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" width="30" height="30" alt="RabbitMQ Icon" style="vertical-align: middle;">
   
-#### 🌐 Networking & Reverse Proxy
+#### Networking & Reverse Proxy
 - <b>NGINX</b>  
   ![nginx](https://img.icons8.com/color/30/nginx.png)
 
-#### 🔁 CI/CD Pipelines & Automation
+#### CI/CD Pipelines & Automation
 - <b>GitHub Actions</b>  
   ![GITHUB](https://img.icons8.com/color/30/github.png)
 - <b>Gitlab CI/CD</b>
@@ -142,7 +142,7 @@ Node.js: [Udemy- The Complete Node.js Developer Course](https://www.udemy.com/co
 ---
 
 <!-- Publications -->
-#### 📚 Publications, Blogs and Lectures
+#### Publications, Blogs and Lectures
 
 -  [This Small Python Script Improved Understanding of Low-Level Programming](https://medium.com/gitconnected/this-small-python-script-improved-understanding-of-low-level-programming-077a2a066273)- published on the popular platform [Level Up Coding](https://levelup.gitconnected.com/) on Medium, explores how a simple Python script can bridge the gap between high-level programming and low-level concepts, providing valuable insights for developers.
 - [7 Quick Tips to Get Started with HashiCorp Vault](https://medium.com/gitconnected/7-quick-tips-to-get-started-with-hashicorp-vault-9e56e42251bf)- published on the well-known developer platform [Level Up Coding](https://levelup.gitconnected.com/) on Medium, offers a practical and beginner-friendly guide to mastering the basics of HashiCorp Vault, helping developers securely manage secrets and sensitive data in modern DevOps environments.
