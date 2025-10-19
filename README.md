@@ -26,7 +26,7 @@ Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving comp
 <!-- END My skills -->
 
 #### Udemy Courses & Certificates
-Kubernetes: [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/certificate/UC-1ec29230-b737-4914-a414-b354691f80f0/)
+Kubernetes: [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/certificate/UC-1ec29230-b737-4914-a414-b354691f80f0/) <br/>
 NGINX: [Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course) <br/>
 Database Engineering: [Fundamentals of Database Engineering - Udemy course](https://www.udemy.com/certificate/UC-ff12ad43-289c-4b0c-b03b-10f2cf47e57a/) <br/>
 Advanced Topics in Python: [Parallel Programming in Python with async/await and threads Course](https://training.talkpython.fm/courses/explore_async_python/async-in-python-with-threading-and-multiprocessing) and
