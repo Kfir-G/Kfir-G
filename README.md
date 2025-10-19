@@ -20,33 +20,33 @@ Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving comp
   
  
 #### Infrastructure & Cloud
-- <b>AWS, Docker, Kubernetes, Terraform</b>  
-  ![AWS](https://img.icons8.com/color/30/amazon-web-services.png)
-  ![Docker](https://img.icons8.com/color/30/docker.png)
-  ![K8S](https://img.icons8.com/color/30/kubernetes.png)
-  ![Terraform](https://img.icons8.com/color/30/terraform.png)
+- <b> AWS ![AWS](https://img.icons8.com/color/30/amazon-web-services.png) ,
+  Docker![Docker](https://img.icons8.com/color/30/docker.png) , 
+  Kubernetes ![K8S](https://img.icons8.com/color/30/kubernetes.png) , 
+  Terraform ![Terraform](https://img.icons8.com/color/30/terraform.png)
+  </b>
 
 #### Security & Identity
-- <b>Keycloak, HashiCorp Vault, JWT</b>  
-  ![key-cloak](https://img.icons8.com/fluency/30/key-cloak.png)
-  ![Vault](https://img.icons8.com/ios/30/hashicorp.png)
-  ![JWT](https://img.icons8.com/color/30/java-web-token.png)
+- <b> Keycloak ![key-cloak](https://img.icons8.com/fluency/30/key-cloak.png)
+  HashiCorp Vault ![Vault](https://img.icons8.com/ios/30/hashicorp.png) ,
+  JWT ![JWT](https://img.icons8.com/color/30/java-web-token.png) ,
+  </b>
 
 #### Databases & Caching
-- <b>PostgreSQL, Redis, RabbitMQ</b> 
-  ![postgresql](https://img.icons8.com/color/30/postgreesql.png)
-  ![redis](https://img.icons8.com/color/30/redis.png)
-  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" width="30" height="30" alt="RabbitMQ Icon" style="vertical-align: middle;">
-  
+- <b> PostgreSQL ![postgresql](https://img.icons8.com/color/30/postgreesql.png) ,
+ Redis ![redis](https://img.icons8.com/color/30/redis.png) ,
+ RabbitMQ <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" width="30" height="30" alt="RabbitMQ Icon" style="vertical-align: middle;">
+ </b>
+  
 #### Networking & Reverse Proxy
-- <b>NGINX</b>  
-  ![nginx](https://img.icons8.com/color/30/nginx.png)
+- <b>NGINX ![nginx](https://img.icons8.com/color/30/nginx.png)
+  </b> 
 
 #### CI/CD Pipelines & Automation
-- <b>GitHub Actions</b>  
-  ![GITHUB](https://img.icons8.com/color/30/github.png)
-- <b>Gitlab CI/CD</b>
-  ![GITLAB](https://img.icons8.com/color/30/gitlab.png)
+- <b>GitHub Actions  ![GITHUB](https://img.icons8.com/color/30/github.png)
+  Gitlab CI/CD ![GITLAB](https://img.icons8.com/color/30/gitlab.png)
+  </b>
+  
 ---
 <!-- END My skills -->
 
