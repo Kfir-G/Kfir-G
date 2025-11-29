@@ -2,7 +2,7 @@
 ### About Me: 
 Hi! I'm Kfir Gisman. I tackle software engineering challenges as if solving complex puzzles, leveraging my engineering mindset. My forte lies in translating human language requirements into high-level, robust projects, drawing on extensive experience in data analysis, security research, and software engineering. Having worked in successful startup and large corporations, I seamlessly integrate diverse approaches into modern project workflows. Moreover, I share insights on various topics through my Medium blog.<br/>
 
-My new website: [kfir-g.github.io](https://kfir-g.dev/) !
+My new website: [kfir-g.dev](https://kfir-g.dev/) !
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/2VMjsaf) 
